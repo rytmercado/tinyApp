@@ -6,5 +6,9 @@ const apps = {
     art: {
         color: '#FF66FF',
         title: 'Art App',
+    },
+    calculator: {
+        color: 'blue',
+        title: 'Calculator'
     }
 };
