@@ -44,8 +44,6 @@ const initArrows = () => {
     }
 }
 
-
-
 document.addEventListener('DOMContentLoaded', () => {
     setDisplay();
     initArrows();
